@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e213e7b0-0638-4ac0-a9bd-1c01197e7152)# АНАЛИЗ ДАННЫХ [in GameDev]
+# АНАЛИЗ ДАННЫХ [in GameDev]
 Отчет по лабораторной работе #1 выполнил:
 - Колотов Никита Александрович
 - РИ230941
