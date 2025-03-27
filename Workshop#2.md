@@ -56,9 +56,9 @@
 ## Задание 3
 Настройте на сцене Unity воспроизведение звуковых файлов, описывающих динамику изменения выбранной переменной. Например, если выбрано здоровье главного персонажа вы можете выводить сообщения, связанные с его состоянием.
 
--using System.Collections;
--using System.Collections.Generic;
--using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class Health : MonoBehaviour
 {
